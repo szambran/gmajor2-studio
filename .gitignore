@@ -1,0 +1,21 @@
+# Compilación y distribución local
+build/
+dist/
+release/
+*.class
+
+# Backups SysEx del hardware: no publicar backups personales por accidente
+*.syx
+*.mid
+gmajor2-prueba*
+
+# Archivos temporales de Linux, IDE y ejecución
+.idea/
+.vscode/
+*.log
+*~
+.DS_Store
+
+# Datos generados durante pruebas locales
+captures/
+tmp/
