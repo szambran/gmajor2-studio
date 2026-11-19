@@ -23,6 +23,24 @@ backup before sending data to the unit.
 See [installation](docs/INSTALACION.md), [MIDI safety](docs/SEGURIDAD-MIDI.md)
 and [contributing](CONTRIBUTING.md).
 
+## Screenshots / Capturas
+
+### Preset editor
+
+![Preset editor](docs/screenshots/editor-presets.png)
+
+### All parameters
+
+![All parameters](docs/screenshots/todos-los-parametros.png)
+
+### Global setup
+
+![Global setup](docs/screenshots/setup-global.png)
+
+### Help and credits
+
+![Help and credits](docs/screenshots/ayuda-creditos.png)
+
 ## Español
 
 Aplicación de escritorio ligera para Linux para trabajar con un TC Electronic
